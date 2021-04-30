@@ -1,6 +1,6 @@
 // import functions and grab DOM elements
 
-import { resOutput, empOutput, endOutput, faceOutput, faceBgOutput } from '../utils.js';
+import { resOutput, empOutput, endOutput, faceOutput, faceBgOutput } from './utils.js';
 
 const resInput = document.querySelector('#res-input');
 const empInput = document.querySelector('#emp-input');
